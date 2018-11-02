@@ -1,6 +1,9 @@
 ## Survey on Paper reviews in NLP & vision
 
 #### Word embeddings
+    * 
+
+
 
 #### semantic parsing
 
