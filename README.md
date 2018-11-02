@@ -1,8 +1,21 @@
-## About Paper reviews
+## Survey on Paper reviews in NLP & vision
 
-### Coling-2018
+#### Word embeddings
 
-### ACL-2018
+#### semantic parsing
+
+#### information extraction
+
+#### syntactic parsing
+
+#### structured models
+
+#### reinforcement learning 
+
+#### dataset construction
 
 #### reference 
+* [CSE 599 D1: Advanced Topics in Natural Language Processing](https://wammar.github.io/2018sp_uw_cse_599/)
+* [Coling-2018](https://aclanthology.coli.uni-saarland.de/events/coling-2018)
+* ACL-2018
 * [Research proposal guidelines](https://lo.unisa.edu.au/mod/page/view.php?id=489313)
