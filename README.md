@@ -1,4 +1,4 @@
-## Survey on Paper reviews in NLP & vision
+## Survey on Papers in NLP & vision
 
 #### Word embeddings
     - 
