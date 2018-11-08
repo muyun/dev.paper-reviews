@@ -1,4 +1,4 @@
-## Survey on Papers in NLP & IMAGE & AI & System
+## Survey on Papers in Language & IMAGE & System & AI 
 
 #### Word embeddings
     - 
