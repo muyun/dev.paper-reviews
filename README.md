@@ -1,6 +1,6 @@
-## Survey on Papers in Language & Graphics & System & AI 
+## Survey on Papers
 
-### NLP & Language
+### NLP
 #### Word embeddings
     - 
 
@@ -17,7 +17,7 @@
 
 ### System 
 
-### Image & Video
+### Vision & Graphics
 
 ### AI
 
