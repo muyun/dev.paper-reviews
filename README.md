@@ -1,5 +1,6 @@
 ## Survey on Papers in Language & IMAGE & System & AI 
 
+### NLP & Language
 #### Word embeddings
     - 
 
@@ -13,6 +14,12 @@
 #### reinforcement learning 
 
 #### dataset construction
+
+### System 
+
+### Image & Video
+
+### AI
 
 #### reference 
 * [COS495 Natural Language Processing](https://www.cs.princeton.edu/courses/archive/spring18/cos495/schedule/)
