@@ -1,4 +1,4 @@
-## Survey on Papers
+## Paper Reviews
 
 ### NLP
 #### Word embeddings
