@@ -1,5 +1,4 @@
-## Paper Reviews
-  - Investigate novel ideas through a set of paper readings
+### Paper Reviews - Investigate novel ideas through a set of paper readings
 
 ### NLP
 #### Word embeddings
