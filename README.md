@@ -1,6 +1,6 @@
 ### Paper Reviews 
    - Investigate novel ideas through a set of paper readings
-   - Track the progress in Natural Language Processing (NLP)
+   - Track the progress in CS
 
 ### NLP
 #### Word embeddings
