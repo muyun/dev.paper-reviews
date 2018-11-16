@@ -1,17 +1,16 @@
 ### Paper Reviews 
    - Investigate novel ideas through a set of paper readings
-   - Track the progress in CS
+   - Track the progress
 
 ### NLP
+
 #### Word embeddings
     - 
 
+### ml
 
 ### System 
 
-### Vision & Graphics
-
-### AI
 
 #### reference 
 * [COS495 Natural Language Processing](https://www.cs.princeton.edu/courses/archive/spring18/cos495/schedule/)
