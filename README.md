@@ -1,6 +1,7 @@
 ### Paper Reviews 
+   - Track the progress 
    - Investigate novel ideas through a set of paper readings
-   - Track the progress
+
 
 ### NLP
 
