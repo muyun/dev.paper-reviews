@@ -1,5 +1,5 @@
 ### Paper Reviews 
-   - Track the progress 
+   - Track the progress, especially in CS
    - Investigate novel ideas through a set of paper readings
 
 
