@@ -20,3 +20,4 @@
 * [Coling-2018](https://aclanthology.coli.uni-saarland.de/events/coling-2018)
 * ACL-2018
 * [Research proposal guidelines](https://lo.unisa.edu.au/mod/page/view.php?id=489313)
+* [NLP Research Links](https://web.cs.dal.ca/~vlado/nlp/)
