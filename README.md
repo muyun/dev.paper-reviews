@@ -6,7 +6,6 @@
 ### NLP
 
 #### Word embeddings
-    - 
 
 
 ### System 
